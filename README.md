@@ -6,18 +6,13 @@ Course explanations, videos, and assessments are provided through GOMYCODE. This
 
 New students should read [STUDENT_START_HERE.md](STUDENT_START_HERE.md) before opening the first lab.
 
-## Labs
+## Available Labs
 
-| Week | Topic | Notebook |
+| Module | Topic | Notebook |
 | --- | --- | --- |
-| 1 | Colab and Python foundations | Coming soon |
-| 2 | LLM calls and model parameters | Coming soon |
-| 3 | Prompt engineering and structured output | Coming soon |
-| 4 | Embeddings and semantic search | Coming soon |
-| 5 | Retrieval-augmented generation | Coming soon |
-| 6 | Function calling and tools | Coming soon |
-| 7 | Agents and workflow design | Coming soon |
-| 8 | Evaluation, safety, and final project | Coming soon |
+| Python foundations | Statements, indentation, comments, imports, and input/output | [Open lab](week-01-colab-foundations/01_python_fundamentals.ipynb) |
+
+Additional labs will be added in the order they are taught. This repository does not assume a fixed eight-week schedule.
 
 ## How to Use a Lab
 
