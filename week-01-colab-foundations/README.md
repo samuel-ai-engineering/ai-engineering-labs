@@ -18,4 +18,4 @@ By the end of this lab, students should be able to:
 
 - [Python Statements and Core Syntax](01_python_fundamentals.ipynb)
 
-The notebook contains demonstrations, short checks, and a small student exercise. It is designed to run from top to bottom without additional packages.
+The notebook is a clean classroom template with section headings and blank code cells. Examples and exercises can be added during the lesson.

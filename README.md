@@ -10,7 +10,7 @@ New students should read [STUDENT_START_HERE.md](STUDENT_START_HERE.md) before o
 
 | Module | Topic | Notebook |
 | --- | --- | --- |
-| Python foundations | Statements, indentation, comments, imports, and input/output | [Open lab](week-01-colab-foundations/01_python_fundamentals.ipynb) |
+| Python foundations | Statements, indentation, comments, imports, and input/output | [Open in Colab](https://colab.research.google.com/github/samuel-ai-engineering/ai-engineering-labs/blob/main/week-01-colab-foundations/01_python_fundamentals.ipynb) |
 
 Additional labs will be added in the order they are taught. This repository does not assume a fixed eight-week schedule.
 
