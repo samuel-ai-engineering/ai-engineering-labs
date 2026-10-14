@@ -2,6 +2,10 @@
 
 This repository contains the student-facing notebooks for **AI Engineering: LLMs to Agentic Automation**.
 
+Course explanations, videos, and assessments are provided through GOMYCODE. This repository contains the runnable examples, practical labs, and project starter files used during class.
+
+New students should read [STUDENT_START_HERE.md](STUDENT_START_HERE.md) before opening the first lab.
+
 ## Labs
 
 | Week | Topic | Notebook |
@@ -23,8 +27,12 @@ This repository contains the student-facing notebooks for **AI Engineering: LLMs
 4. Run the notebook from top to bottom.
 5. Complete the exercise section.
 
+Students should work in their personal Colab copies. Do not edit or push directly to the shared course repository.
+
 ## Security
 
 Never add API keys to notebooks or commit `.env` files. Use Colab Secrets and remove private data from notebook outputs before sharing.
 
-Course information and support are available in `https://github.com/YOUR_GITHUB_ORG/course-hub`.
+Organization: [samuel-ai-engineering](https://github.com/samuel-ai-engineering)
+
+Student team: **Gomycode: Flamingo-Wizards**
