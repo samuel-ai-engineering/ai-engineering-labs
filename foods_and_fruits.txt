@@ -1,0 +1,60 @@
+food:rice
+fruits:apple
+food:beans
+fruits:banana
+fruits:orange
+food:yam
+food:bread
+fruits:mango
+food:pasta
+fruits:pineapple
+fruits:watermelon
+food:noodles
+food:potatoes
+fruits:pawpaw
+food:oats
+fruits:grape
+fruits:strawberry
+food:maize
+food:eggs
+fruits:blueberry
+food:chicken
+fruits:raspberry
+fruits:blackberry
+food:fish
+food:beef
+fruits:pear
+food:turkey
+fruits:peach
+fruits:plum
+food:lentils
+food:chickpeas
+fruits:apricot
+food:cheese
+fruits:cherry
+fruits:kiwi
+food:yogurt
+food:tofu
+fruits:lemon
+food:mushrooms
+fruits:lime
+fruits:grapefruit
+food:spinach
+food:carrots
+fruits:guava
+food:cabbage
+fruits:passion fruit
+fruits:dragon fruit
+food:broccoli
+food:lettuce
+fruits:pomegranate
+food:pancakes
+fruits:coconut
+fruits:avocado
+food:porridge
+food:jollof rice
+fruits:date
+food:egusi soup
+fruits:fig
+fruits:tangerine
+food:pounded yam
